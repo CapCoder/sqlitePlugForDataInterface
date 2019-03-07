@@ -1,0 +1,8 @@
+C:\Users\jonmc\Documents\C#Libraries\SQLitePlug\SQLitePlug\SQLitePlug\bin\Debug\netstandard2.0\SQLitePlug.deps.json
+C:\Users\jonmc\Documents\C#Libraries\SQLitePlug\SQLitePlug\SQLitePlug\bin\Debug\netstandard2.0\SQLitePlug.dll
+C:\Users\jonmc\Documents\C#Libraries\SQLitePlug\SQLitePlug\SQLitePlug\bin\Debug\netstandard2.0\DataInterface.dll
+C:\Users\jonmc\Documents\C#Libraries\SQLitePlug\SQLitePlug\SQLitePlug\obj\Debug\netstandard2.0\SQLitePlug.csprojAssemblyReference.cache
+C:\Users\jonmc\Documents\C#Libraries\SQLitePlug\SQLitePlug\SQLitePlug\obj\Debug\netstandard2.0\SQLitePlug.csproj.CoreCompileInputs.cache
+C:\Users\jonmc\Documents\C#Libraries\SQLitePlug\SQLitePlug\SQLitePlug\obj\Debug\netstandard2.0\SQLitePlug.AssemblyInfoInputs.cache
+C:\Users\jonmc\Documents\C#Libraries\SQLitePlug\SQLitePlug\SQLitePlug\obj\Debug\netstandard2.0\SQLitePlug.AssemblyInfo.cs
+C:\Users\jonmc\Documents\C#Libraries\SQLitePlug\SQLitePlug\SQLitePlug\obj\Debug\netstandard2.0\SQLitePlug.csproj.CopyComplete
